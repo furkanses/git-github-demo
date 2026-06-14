@@ -53,4 +53,4 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:furkanses/git-github-demo.git
    7dc0394..f8d0169  main -> main
 
-ÖNEMLİ  ==>   DERSTE YAPTIĞIM DEMO REPOSUNU SİLDİĞİM İÇİN TEKRAR AYNISINI YAPTIM
+ÖNEMLİ  ==>   DERSTE YAPTIĞIM DEMO REPOSUNU SİLDİĞİM İÇİN TEKRAR AYNISINI YAPTIM.
